@@ -2,7 +2,7 @@
 Top down dungeon game (2-D). Developed using Unity Game Engine. Still under development
 
 
-## Graphics  
+## Gameplay
 ![](https://github.com/FahdSeddik/2D-Dungeon-Game/blob/main/Screenshot%201.png)
 
 ![](https://github.com/FahdSeddik/2D-Dungeon-Game/blob/main/Screenshot%202.png)
